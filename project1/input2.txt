@@ -1,0 +1,14 @@
+Hello there! Welcome to this long English text designed specifically to test your Python TextProcessor script. 
+This text contains various elements to ensure your text cleaning functions work properly. 
+
+For example, if you find any bugs, you can reach out to our testing team at support@example.com or feedback@test-domain.org. 
+Do not forget to visit our main documentation website at https://www.python-testing.com for more information, or check out our partner site at www.developer-tools.net. 
+
+Python is a wonderful programming language. Python allows you to write clean, readable, and efficient code. 
+Code testing is highly important. Testing ensures that bugs—like the list-modification bug in your stop-word removal function—are caught early! 
+
+Speaking of stop words, since your current list of stop words is in Persian, they will not filter out English words like "the", "and", or "to". 
+However, your word frequency counter should still accurately count all the repeated English words in this document once the punctuation is stripped away. 
+
+Let's add some more punctuation to test the regex: "Is this working?" Yes, it is working perfectly! Well, hopefully... (Fingers crossed). 
+Keep coding, keep testing, and always remember to check your loops and data structures. Happy coding!
