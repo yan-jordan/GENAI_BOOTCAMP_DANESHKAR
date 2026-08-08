@@ -1,5 +1,6 @@
 .env
 venv/
+task_3/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
