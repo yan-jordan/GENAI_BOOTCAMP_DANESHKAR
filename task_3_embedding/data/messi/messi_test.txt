@@ -1,0 +1,62 @@
+Test Questions and Answers for messi.txt
+(For evaluating retrieval accuracy of an English similarity search / RAG engine. Each answer should be retrievable from a specific passage in messi.txt.)
+
+Q1: When and where was Lionel Messi born?
+A1: June 24, 1987, in Rosario, Argentina.
+
+Q2: What medical condition was Messi diagnosed with around age eleven?
+A2: A growth hormone deficiency that required expensive injections.
+
+Q3: On what date did Carles Rexach write the terms of Messi's contract offer on a napkin?
+A3: December 14, 2000.
+
+Q4: On what date and against which team did Messi make his official first-team debut for Barcelona?
+A4: October 16, 2004, as a substitute against RCD Espanyol.
+
+Q5: Who set up Messi's first senior goal for Barcelona, and against which team was it scored?
+A5: Ronaldinho, with a backheel pass; the goal was scored against Albacete on May 1, 2005.
+
+Q6: What tournament did Messi win with Argentina's under-20 team in 2005, and in which country was it held?
+A6: The 2005 FIFA World Youth Championship, held in the Netherlands.
+
+Q7: Why did Messi miss the 2006 Champions League final in Paris?
+A7: He suffered a torn thigh muscle weeks before the match.
+
+Q8: What did Argentina win at the 2008 Beijing Olympics, and what was the score of the final?
+A8: The gold medal; Argentina beat Nigeria 1-0.
+
+Q9: What was the score of the 2009 Champions League final in Rome, and how did Messi score his goal?
+A9: Barcelona beat Manchester United 2-0; Messi scored with a header, unusual for a player of his height.
+
+Q10: In what year did Messi win his first Ballon d'Or, and which rival did he edge out?
+A10: 2009; he edged out Cristiano Ronaldo.
+
+Q11: Whose calendar-year goal-scoring record did Messi break in 2012, and how many goals did he finish with?
+A11: Gerd Müller's record of 85 goals (set in 1972); Messi finished with 91 goals.
+
+Q12: What was the result of the 2014 World Cup final, and who scored the winning goal?
+A12: Germany beat Argentina 1-0 in extra time; Mario Götze scored the winner.
+
+Q13: What did Messi announce after Argentina's second consecutive Copa América final defeat to Chile in 2016?
+A13: His retirement from the national team, a decision he reversed within weeks.
+
+Q14: Which three players formed Barcelona's "MSN" attacking trio?
+A14: Lionel Messi, Luis Suárez, and Neymar Jr.
+
+Q15: Where was the 2015 Champions League final played, and what was the final score?
+A15: The Olympiastadion in Berlin; Barcelona beat Juventus 3-1.
+
+Q16: What title did Messi finally win with the Argentina senior national team in 2021, and what was the final score?
+A16: The Copa América; Argentina beat host nation Brazil 1-0 in the final.
+
+Q17: Why did Messi leave Barcelona in August 2021?
+A17: Barcelona could not register his renewed contract under La Liga's financial fair play rules amid the club's debt crisis.
+
+Q18: What was the full result of the 2022 World Cup final, including the penalty shootout?
+A18: A 3-3 draw after extra time; Argentina won the penalty shootout 4-2.
+
+Q19: How did Messi score in his Inter Miami debut on July 21, 2023?
+A19: With a stoppage-time free kick that won the match 2-1 against Cruz Azul.
+
+Q20: When did Messi win his record eighth Ballon d'Or?
+A20: October 2023.
